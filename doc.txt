@@ -1,0 +1,21 @@
+
+Boto3
+
+It i s python library /API for aws
+It allows us to directly create, update, delete aws service from our python scripts.
+
+--------
+Install
+pip install boto3
+----------
+
+IAM USER Configuration
+sudo apt  install awscli
+
+aws configure
+
+user - ******
+Access key=******
+Secret access key=********
+
+------
